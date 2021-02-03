@@ -4,7 +4,11 @@
 /storage/*.key
 /vendor
 #.env
+<<<<<<< HEAD
 #.env.backup
+=======
+.env.backup
+>>>>>>> cabang-1
 #.phpunit.result.cache
 docker-compose.override.yml
 #Homestead.json
